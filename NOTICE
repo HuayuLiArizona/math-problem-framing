@@ -1,0 +1,10 @@
+math-problem-framing
+Copyright 2026 HuayuLiArizona
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes short excerpts from problem statements in openai/math
+(https://github.com/openai/math), published by OpenAI and licensed under the
+Apache License, Version 2.0. The excerpts are quoted, with attribution, in:
+  math-problem-framing/references/en/openai-math-prompt-patterns.md
+  math-problem-framing/references/zh/openai-math-prompt-patterns.md
